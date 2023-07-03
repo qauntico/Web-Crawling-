@@ -1,0 +1,107 @@
+{
+    "massageResources": [
+      {
+        "resourceName": "Michael McGreevy",
+        "officeName": "",
+        "officeAddressLine1": "6808 N Dysart Rd Ste 136",
+        "officeAddressLine2": "Glendale, AZ",
+        "officeDistanceFromZip": 0,
+        "urlToDetailsPage": "/famt/1571292/michael-mcgreevy",
+        "urlToThumbnailImage": "https://nf.amtamassage.org/iweb/photos/1571292.jpg",
+        "description": null
+      },
+      {
+        "resourceName": "Joshua Macias",
+        "officeName": "",
+        "officeAddressLine1": "",
+        "officeAddressLine2": "San Diego, CA",
+        "officeDistanceFromZip": 0,
+        "urlToDetailsPage": "/famt/1725251/joshua-macias",
+        "urlToThumbnailImage": "https://nf.amtamassage.org/iweb/photos/1725251.jpg",
+        "description": null
+      },
+      {
+        "resourceName": "Brittany Miller",
+        "officeName": "",
+        "officeAddressLine1": "",
+        "officeAddressLine2": "Salem, MO",
+        "officeDistanceFromZip": 0,
+        "urlToDetailsPage": "/famt/1715270/brittany-miller",
+        "urlToThumbnailImage": "https://nf.amtamassage.org/iweb/photos/1715270.jpg",
+        "description": null
+      },
+      {
+        "resourceName": "Jacquelin Ash",
+        "officeName": "",
+        "officeAddressLine1": "",
+        "officeAddressLine2": "Bonnieville, KY",
+        "officeDistanceFromZip": 0,
+        "urlToDetailsPage": "/famt/1915544/jacquelin-ash",
+        "urlToThumbnailImage": "https://nf.amtamassage.org/iweb/photos/1915544.jpg",
+        "description": null
+      },
+      {
+        "resourceName": "Georgeanna Piazza",
+        "officeName": "",
+        "officeAddressLine1": "",
+        "officeAddressLine2": "Islip, NY",
+        "officeDistanceFromZip": 0,
+        "urlToDetailsPage": "/famt/1361822/georgeanna-piazza",
+        "urlToThumbnailImage": "https://nf.amtamassage.org/iweb/photos/1361822.jpg",
+        "description": null
+      },
+      {
+        "resourceName": "Reagan Leigh Wood",
+        "officeName": "Be Simple Massage",
+        "officeAddressLine1": "127 Franklin Rd Ste 310",
+        "officeAddressLine2": "Brentwood, TN",
+        "officeDistanceFromZip": 0,
+        "urlToDetailsPage": "/famt/1230410/reagan-leigh-wood",
+        "urlToThumbnailImage": "https://nf.amtamassage.org/iweb/photos/1230410.jpg",
+        "description": null
+      },
+      {
+        "resourceName": "Christopher Vedda",
+        "officeName": "",
+        "officeAddressLine1": "12073 Katy Rd Ste 613",
+        "officeAddressLine2": "Fort Worth, TX",
+        "officeDistanceFromZip": 0,
+        "urlToDetailsPage": "/famt/1337250/christopher-vedda",
+        "urlToThumbnailImage": "https://nf.amtamassage.org/iweb/photos/1337250.jpg",
+        "description": null
+      },
+      {
+        "resourceName": "Emily Jacobs",
+        "officeName": "",
+        "officeAddressLine1": "",
+        "officeAddressLine2": "Takoma Park, MD",
+        "officeDistanceFromZip": 0,
+        "urlToDetailsPage": "/famt/1261452/emily-jacobs",
+        "urlToThumbnailImage": "https://nf.amtamassage.org/iweb/photos/1261452.jpg",
+        "description": null
+      },
+      {
+        "resourceName": "Nicole Glowa",
+        "officeName": "",
+        "officeAddressLine1": "121 gentry st",
+        "officeAddressLine2": "ROXBORO , NC",
+        "officeDistanceFromZip": 0,
+        "urlToDetailsPage": "/famt/1451806/nicole-glowa",
+        "urlToThumbnailImage": "https://nf.amtamassage.org/iweb/photos/1451806.jpg",
+        "description": null
+      },
+      {
+        "resourceName": "Johnny Julia Marshall",
+        "officeName": "Massage for All Seasons",
+        "officeAddressLine1": "8835 Sw Canyon Ln Ste 210",
+        "officeAddressLine2": "Portland, OR",
+        "officeDistanceFromZip": 0,
+        "urlToDetailsPage": "/famt/110346/johnny-julia-marshall",
+        "urlToThumbnailImage": "https://nf.amtamassage.org/iweb/photos/110346.jpg",
+        "description": null
+      }
+    ],
+    "totalMassageResources": 19360,
+    "totalPages": 1936,
+    "searchedForState": false
+  }
